@@ -1,4 +1,4 @@
-# React Appointment App
+# Appointment Scheduler App
 
 This is a simple React app that allows users to schedule appointments. It makes use of React, React Icons, and Tailwind CSS.
 
